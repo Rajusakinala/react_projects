@@ -1,0 +1,23 @@
+.content{
+    width: 100vw;
+    height: 75vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.input_form{
+    position: absolute;
+    right: 10vw;
+}
+
+.forgot_box{
+    margin-top: 10vh;
+    border-radius: 2%;
+    padding: 10rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* height: 75vh; */
+}

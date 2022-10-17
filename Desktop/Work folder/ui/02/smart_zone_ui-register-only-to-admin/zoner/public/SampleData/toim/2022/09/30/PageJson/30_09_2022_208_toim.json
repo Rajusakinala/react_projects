@@ -1,0 +1,34 @@
+{
+  "EditionName": "TOIMumbai",
+  "PageName": "30_09_2022_208_toim.jpg",
+  "PageWidth": 1978,
+  "PageHeight": 1540,
+  "PageContent": [
+    {
+      "ArticleName": "30_09_2022_208_001_toim",
+      "Zones": [
+        {
+          "TagName": "Advertisement",
+          "X": 17,
+          "Y": 18,
+          "W": 1936,
+          "H": 1504,
+          "ZoneId": "30_09_2022_208_001_001"
+        }
+      ]
+    },
+    {
+      "ArticleName": "30_09_2022_208_002_toim",
+      "Zones": [
+        {
+          "TagName": "Article Title",
+          "X": 1133,
+          "Y": 529,
+          "W": 10,
+          "H": 10,
+          "ZoneId": "30_09_2022_208_002_001"
+        }
+      ]
+    }
+  ]
+}

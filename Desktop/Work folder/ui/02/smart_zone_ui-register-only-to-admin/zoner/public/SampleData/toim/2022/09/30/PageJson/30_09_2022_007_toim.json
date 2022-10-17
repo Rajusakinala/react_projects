@@ -1,0 +1,203 @@
+{
+  "EditionName": "TOIMumbai",
+  "PageName": "30_09_2022_007_toim.jpg",
+  "PageWidth": 989,
+  "PageHeight": 1540,
+  "PageContent": [
+    {
+      "ArticleName": "30_09_2022_007_001_toim",
+      "Zones": [
+        {
+          "TagName": "Advertisement",
+          "X": 391,
+          "Y": 19,
+          "W": 572,
+          "H": 1498,
+          "ZoneId": "30_09_2022_007_001_001"
+        }
+      ]
+    },
+    {
+      "ArticleName": "30_09_2022_007_002_toim",
+      "Zones": [
+        {
+          "TagName": "Advertisement",
+          "X": 25,
+          "Y": 942,
+          "W": 346,
+          "H": 574,
+          "ZoneId": "30_09_2022_007_002_002"
+        }
+      ]
+    },
+    {
+      "ArticleName": "30_09_2022_007_003_toim",
+      "Zones": [
+        {
+          "TagName": "Advertisement",
+          "X": 143,
+          "Y": 764,
+          "W": 233,
+          "H": 176,
+          "ZoneId": "30_09_2022_007_003_003"
+        }
+      ]
+    },
+    {
+      "ArticleName": "30_09_2022_007_005_toim",
+      "Zones": [
+        {
+          "TagName": "Article Title",
+          "X": 24,
+          "Y": 51,
+          "W": 358,
+          "H": 88,
+          "ZoneId": "30_09_2022_007_005_002"
+        },
+        {
+          "TagName": "Article Body",
+          "X": 24,
+          "Y": 167,
+          "W": 118,
+          "H": 245,
+          "ZoneId": "30_09_2022_007_005_004"
+        },
+        {
+          "TagName": "Article Body",
+          "X": 144,
+          "Y": 140,
+          "W": 118,
+          "H": 119,
+          "ZoneId": "30_09_2022_007_005_005"
+        },
+        {
+          "TagName": "Article Body",
+          "X": 144,
+          "Y": 302,
+          "W": 118,
+          "H": 110,
+          "ZoneId": "30_09_2022_007_005_006"
+        },
+        {
+          "TagName": "Article Body",
+          "X": 264,
+          "Y": 140,
+          "W": 118,
+          "H": 272,
+          "ZoneId": "30_09_2022_007_005_007"
+        },
+        {
+          "TagName": "Author",
+          "X": 24,
+          "Y": 139,
+          "W": 119,
+          "H": 27,
+          "ZoneId": "30_09_2022_007_005_003"
+        },
+        {
+          "TagName": "Blurb",
+          "X": 144,
+          "Y": 262,
+          "W": 119,
+          "H": 39,
+          "ZoneId": "30_09_2022_007_005_001"
+        }
+      ]
+    },
+    {
+      "ArticleName": "30_09_2022_007_006_toim",
+      "Zones": [
+        {
+          "TagName": "Article Title",
+          "X": 146,
+          "Y": 421,
+          "W": 232,
+          "H": 103,
+          "ZoneId": "30_09_2022_007_006_001"
+        },
+        {
+          "TagName": "Article Title",
+          "X": 261,
+          "Y": 523,
+          "W": 122,
+          "H": 37,
+          "ZoneId": "30_09_2022_007_006_005"
+        },
+        {
+          "TagName": "Article Body",
+          "X": 142,
+          "Y": 545,
+          "W": 119,
+          "H": 209,
+          "ZoneId": "30_09_2022_007_006_003"
+        },
+        {
+          "TagName": "Article Body",
+          "X": 261,
+          "Y": 701,
+          "W": 125,
+          "H": 55,
+          "ZoneId": "30_09_2022_007_006_004"
+        },
+        {
+          "TagName": "Article Body",
+          "X": 263,
+          "Y": 560,
+          "W": 119,
+          "H": 139,
+          "ZoneId": "30_09_2022_007_006_006"
+        },
+        {
+          "TagName": "Author",
+          "X": 143,
+          "Y": 521,
+          "W": 117,
+          "H": 23,
+          "ZoneId": "30_09_2022_007_006_002"
+        }
+      ]
+    },
+    {
+      "ArticleName": "30_09_2022_007_008_toim",
+      "Zones": [
+        {
+          "TagName": "Article Title",
+          "X": 136,
+          "Y": 20,
+          "W": 149,
+          "H": 25,
+          "ZoneId": "30_09_2022_007_008_001"
+        },
+        {
+          "TagName": "Information",
+          "X": 19,
+          "Y": 14,
+          "W": 365,
+          "H": 35,
+          "ZoneId": "30_09_2022_007_008_002"
+        }
+      ]
+    },
+    {
+      "ArticleName": "30_09_2022_007_009_toim",
+      "Zones": [
+        {
+          "TagName": "Article Title",
+          "X": 23,
+          "Y": 422,
+          "W": 111,
+          "H": 112,
+          "ZoneId": "30_09_2022_007_009_001"
+        },
+        {
+          "TagName": "Article Body",
+          "X": 24,
+          "Y": 530,
+          "W": 110,
+          "H": 395,
+          "ZoneId": "30_09_2022_007_009_002"
+        }
+      ]
+    }
+  ]
+}

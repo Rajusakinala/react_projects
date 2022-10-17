@@ -1,0 +1,163 @@
+{
+  "EditionName": "TOIMumbai",
+  "PageName": "30_09_2022_213_toim.jpg",
+  "PageWidth": 989,
+  "PageHeight": 1540,
+  "PageContent": [
+    {
+      "ArticleName": "30_09_2022_213_003_toim",
+      "Zones": [
+        {
+          "TagName": "Column Title",
+          "X": 22,
+          "Y": 1120,
+          "W": 125,
+          "H": 54,
+          "ZoneId": "30_09_2022_213_003_003"
+        },
+        {
+          "TagName": "Article Title",
+          "X": 22,
+          "Y": 1057,
+          "W": 126,
+          "H": 64,
+          "ZoneId": "30_09_2022_213_003_002"
+        },
+        {
+          "TagName": "Article Body",
+          "X": 16,
+          "Y": 1300,
+          "W": 132,
+          "H": 209,
+          "ZoneId": "30_09_2022_213_003_004"
+        },
+        {
+          "TagName": "Photographs",
+          "X": 22,
+          "Y": 1172,
+          "W": 124,
+          "H": 129,
+          "ZoneId": "30_09_2022_213_003_005"
+        }
+      ]
+    },
+    {
+      "ArticleName": "30_09_2022_213_004_toim",
+      "Zones": [
+        {
+          "TagName": "Advertisement",
+          "X": 617,
+          "Y": 20,
+          "W": 348,
+          "H": 1497,
+          "ZoneId": "30_09_2022_213_004_003"
+        }
+      ]
+    },
+    {
+      "ArticleName": "30_09_2022_213_005_toim",
+      "Zones": [
+        {
+          "TagName": "Advertisement",
+          "X": 163,
+          "Y": 812,
+          "W": 453,
+          "H": 712,
+          "ZoneId": "30_09_2022_213_005_002"
+        }
+      ]
+    },
+    {
+      "ArticleName": "30_09_2022_213_006_toim",
+      "Zones": [
+        {
+          "TagName": "Article Title",
+          "X": 274,
+          "Y": 16,
+          "W": 87,
+          "H": 29,
+          "ZoneId": "30_09_2022_213_006_001"
+        },
+        {
+          "TagName": "Information",
+          "X": 6,
+          "Y": 9,
+          "W": 608,
+          "H": 37,
+          "ZoneId": "30_09_2022_213_006_002"
+        }
+      ]
+    },
+    {
+      "ArticleName": "30_09_2022_213_008_toim",
+      "Zones": [
+        {
+          "TagName": "Advertisement",
+          "X": 494,
+          "Y": 69,
+          "W": 122,
+          "H": 155,
+          "ZoneId": "30_09_2022_213_008_001"
+        }
+      ]
+    },
+    {
+      "ArticleName": "30_09_2022_213_009_toim",
+      "Zones": [
+        {
+          "TagName": "Advertisement",
+          "X": 185,
+          "Y": 224,
+          "W": 432,
+          "H": 574,
+          "ZoneId": "30_09_2022_213_009_001"
+        }
+      ]
+    },
+    {
+      "ArticleName": "30_09_2022_213_010_toim",
+      "Zones": [
+        {
+          "TagName": "Article Title",
+          "X": 10,
+          "Y": 49,
+          "W": 481,
+          "H": 134,
+          "ZoneId": "30_09_2022_213_010_001"
+        },
+        {
+          "TagName": "Article Body",
+          "X": 10,
+          "Y": 412,
+          "W": 167,
+          "H": 385,
+          "ZoneId": "30_09_2022_213_010_002"
+        },
+        {
+          "TagName": "Article Body",
+          "X": 23,
+          "Y": 795,
+          "W": 126,
+          "H": 261,
+          "ZoneId": "30_09_2022_213_010_003"
+        },
+        {
+          "TagName": "Photographs",
+          "X": 12,
+          "Y": 179,
+          "W": 165,
+          "H": 235,
+          "ZoneId": "30_09_2022_213_010_004"
+        },
+        {
+          "TagName": "Image Caption",
+          "X": 175,
+          "Y": 182,
+          "W": 316,
+          "H": 41,
+          "ZoneId": "30_09_2022_213_010_005"
+        }
+      ]
+    }
+  ]
+}

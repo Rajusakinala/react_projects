@@ -1,0 +1,237 @@
+{
+  "EditionName": "TOIMumbai",
+  "PageName": "30_09_2022_018_toim.jpg",
+  "PageWidth": 989,
+  "PageHeight": 1540,
+  "PageContent": [
+    {
+      "ArticleName": "30_09_2022_018_001_toim",
+      "Zones": [
+        {
+          "TagName": "Advertisement",
+          "X": 24,
+          "Y": 53,
+          "W": 233,
+          "H": 119,
+          "ZoneId": "30_09_2022_018_001_013"
+        }
+      ]
+    },
+    {
+      "ArticleName": "30_09_2022_018_002_toim",
+      "Zones": [
+        {
+          "TagName": "Advertisement",
+          "X": 261,
+          "Y": 51,
+          "W": 232,
+          "H": 179,
+          "ZoneId": "30_09_2022_018_002_014"
+        }
+      ]
+    },
+    {
+      "ArticleName": "30_09_2022_018_003_toim",
+      "Zones": [
+        {
+          "TagName": "Article Title",
+          "X": 294,
+          "Y": 16,
+          "W": 321,
+          "H": 29,
+          "ZoneId": "30_09_2022_018_003_001"
+        },
+        {
+          "TagName": "Information",
+          "X": 21,
+          "Y": 9,
+          "W": 949,
+          "H": 36,
+          "ZoneId": "30_09_2022_018_003_002"
+        }
+      ]
+    },
+    {
+      "ArticleName": "30_09_2022_018_004_toim",
+      "Zones": [
+        {
+          "TagName": "Advertisement",
+          "X": 498,
+          "Y": 59,
+          "W": 231,
+          "H": 405,
+          "ZoneId": "30_09_2022_018_004_015"
+        }
+      ]
+    },
+    {
+      "ArticleName": "30_09_2022_018_005_toim",
+      "Zones": [
+        {
+          "TagName": "Advertisement",
+          "X": 731,
+          "Y": 49,
+          "W": 236,
+          "H": 432,
+          "ZoneId": "30_09_2022_018_005_016"
+        }
+      ]
+    },
+    {
+      "ArticleName": "30_09_2022_018_006_toim",
+      "Zones": [
+        {
+          "TagName": "Advertisement",
+          "X": 24,
+          "Y": 174,
+          "W": 233,
+          "H": 120,
+          "ZoneId": "30_09_2022_018_006_012"
+        }
+      ]
+    },
+    {
+      "ArticleName": "30_09_2022_018_007_toim",
+      "Zones": [
+        {
+          "TagName": "Advertisement",
+          "X": 261,
+          "Y": 242,
+          "W": 231,
+          "H": 230,
+          "ZoneId": "30_09_2022_018_007_011"
+        }
+      ]
+    },
+    {
+      "ArticleName": "30_09_2022_018_008_toim",
+      "Zones": [
+        {
+          "TagName": "Advertisement",
+          "X": 24,
+          "Y": 298,
+          "W": 236,
+          "H": 176,
+          "ZoneId": "30_09_2022_018_008_010"
+        }
+      ]
+    },
+    {
+      "ArticleName": "30_09_2022_018_009_toim",
+      "Zones": [
+        {
+          "TagName": "Advertisement",
+          "X": 731,
+          "Y": 483,
+          "W": 235,
+          "H": 207,
+          "ZoneId": "30_09_2022_018_009_008"
+        }
+      ]
+    },
+    {
+      "ArticleName": "30_09_2022_018_010_toim",
+      "Zones": [
+        {
+          "TagName": "Advertisement",
+          "X": 24,
+          "Y": 476,
+          "W": 349,
+          "H": 289,
+          "ZoneId": "30_09_2022_018_010_009"
+        }
+      ]
+    },
+    {
+      "ArticleName": "30_09_2022_018_011_toim",
+      "Zones": [
+        {
+          "TagName": "Advertisement",
+          "X": 377,
+          "Y": 484,
+          "W": 351,
+          "H": 176,
+          "ZoneId": "30_09_2022_018_011_007"
+        }
+      ]
+    },
+    {
+      "ArticleName": "30_09_2022_018_012_toim",
+      "Zones": [
+        {
+          "TagName": "Advertisement",
+          "X": 730,
+          "Y": 691,
+          "W": 239,
+          "H": 317,
+          "ZoneId": "30_09_2022_018_012_005"
+        }
+      ]
+    },
+    {
+      "ArticleName": "30_09_2022_018_013_toim",
+      "Zones": [
+        {
+          "TagName": "Advertisement",
+          "X": 378,
+          "Y": 661,
+          "W": 351,
+          "H": 346,
+          "ZoneId": "30_09_2022_018_013_006"
+        }
+      ]
+    },
+    {
+      "ArticleName": "30_09_2022_018_014_toim",
+      "Zones": [
+        {
+          "TagName": "Advertisement",
+          "X": 24,
+          "Y": 771,
+          "W": 351,
+          "H": 747,
+          "ZoneId": "30_09_2022_018_014_001"
+        }
+      ]
+    },
+    {
+      "ArticleName": "30_09_2022_018_015_toim",
+      "Zones": [
+        {
+          "TagName": "Advertisement",
+          "X": 381,
+          "Y": 1024,
+          "W": 290,
+          "H": 489,
+          "ZoneId": "30_09_2022_018_015_003"
+        }
+      ]
+    },
+    {
+      "ArticleName": "30_09_2022_018_016_toim",
+      "Zones": [
+        {
+          "TagName": "Advertisement",
+          "X": 673,
+          "Y": 1014,
+          "W": 290,
+          "H": 176,
+          "ZoneId": "30_09_2022_018_016_004"
+        }
+      ]
+    },
+    {
+      "ArticleName": "30_09_2022_018_017_toim",
+      "Zones": [
+        {
+          "TagName": "Advertisement",
+          "X": 675,
+          "Y": 1225,
+          "W": 288,
+          "H": 296,
+          "ZoneId": "30_09_2022_018_017_002"
+        }
+      ]
+    }
+  ]
+}
